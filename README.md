@@ -1,4 +1,4 @@
-# Create a Notetaking App with Speech Recognition
+# Notetaking App with Speech Recognition and Notion API
 
 ## Installation
 
